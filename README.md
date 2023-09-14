@@ -11,3 +11,6 @@ Add the release .asar file to your SWEX \plugins folder and watch artifact effic
 Thanks to Xzandro and Cerusa for the original runedropefficiency code and math.
 
 ![image](https://user-images.githubusercontent.com/21117386/123708656-cc76b800-d839-11eb-8450-213237b14996.png)
+
+EDIT: as of 14/09/20023:
+https://www.reddit.com/r/summonerswar/comments/16idmio/state_of_swex_after_patch_809/
